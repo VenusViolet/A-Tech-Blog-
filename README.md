@@ -15,7 +15,7 @@ This application builds a CMS style blog that allows all developers to be able t
 ## Installation 
 To access the webpage you can fork the repository so that you can do npm start in the command line to run the project and it can also be used by using the heroku given link. 
 ## Usage
-This accessible web application works when the user starts npm i and then npm start on the command line. 
+This accessible web application works when the user starts npm i and then npm start on the command line. Link to the deployed application: https://peaceful-savannah-85645.herokuapp.com/ 
 
 ## Credits
 TA Kevin Long assisted with this project. 
